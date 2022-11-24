@@ -1,0 +1,102 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Nov 2022 17:20:02 at https://blogosphere.cmsmasters.net/modern/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blogosphere.cmsmasters.net/modern/ -O1 "C:\My Web Sites\blogoshere_valencia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:21:00	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/modern/xmlrpc.php (from https://blogosphere.cmsmasters.net/modern/)
+17:21:11	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/modern/xmlrpc.php?rsd (from https://blogosphere.cmsmasters.net/modern/)
+17:23:38	Error: 	"Bad Request" (400) at link https://blogosphere.cmsmasters.net/modern/wp-admin/admin-ajax.php (from https://blogosphere.cmsmasters.net/modern/)
+17:23:41	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/modern/wp-content/themes/blogosphere/img/ilightbox/closedhand.cur
+17:23:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=8946
+17:23:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=8946 to https://blogosphere.cmsmasters.net/modern/about-me/
+17:23:41	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13392
+17:23:41	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13392 to https://blogosphere.cmsmasters.net/modern/2017/09/01/tactics-for-avoiding-the-comparison-trap/
+17:23:43	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13095
+17:23:43	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13095 to https://blogosphere.cmsmasters.net/modern/2017/09/24/small-home-design-ideas-pictures-and-decor/
+17:23:47	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13097
+17:23:47	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13097 to https://blogosphere.cmsmasters.net/modern/2017/09/15/take-care-of-your-house-this-spring-with-flowers/
+17:23:57	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13397
+17:23:57	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13397 to https://blogosphere.cmsmasters.net/modern/2017/09/03/how-to-be-more-creative/
+17:23:57	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13402
+17:23:57	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13402 to https://blogosphere.cmsmasters.net/modern/2017/09/04/husky-rescue-new-light-of-tomorrow/
+17:23:57	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=882
+17:23:57	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=882 to https://blogosphere.cmsmasters.net/modern/standard-blog/
+17:24:05	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=887
+17:24:05	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=887 to https://blogosphere.cmsmasters.net/modern/masonry-blog/
+17:24:07	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=889
+17:24:07	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=889 to https://blogosphere.cmsmasters.net/modern/timeline-blog/
+17:24:13	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13382
+17:24:13	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13382 to https://blogosphere.cmsmasters.net/modern/puzzle-blog/
+17:24:13	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13878
+17:24:13	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13878 to https://blogosphere.cmsmasters.net/modern/side-blog/
+17:24:13	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=74
+17:24:13	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=74 to https://blogosphere.cmsmasters.net/modern/grid-blog/
+17:25:17	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=11986
+17:25:17	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=11986 to https://blogosphere.cmsmasters.net/modern/typography-2/
+17:25:17	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=11850
+17:25:17	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=11850 to https://blogosphere.cmsmasters.net/modern/contacts/
+17:25:17	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=285
+17:25:17	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=285 to https://blogosphere.cmsmasters.net/modern/2017/09/28/which-new-york-boat-tour-or-cruise-is-best/
+17:25:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=103
+17:25:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=103 to https://blogosphere.cmsmasters.net/modern/2017/09/26/tips-to-manage-your-growing-collection-better/
+17:25:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1965
+17:25:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1965 to https://blogosphere.cmsmasters.net/modern/2017/09/06/the-role-of-faith-in-improving-the-quality-of-life/
+17:25:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=106
+17:25:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=106 to https://blogosphere.cmsmasters.net/modern/2017/09/08/i-swear-i-saw-this-drawings-in-notebooks/
+17:25:21	Error: 	"Not Found" (404) at link https://blogosphere.cmsmasters.net/modern/2/ (from https://blogosphere.cmsmasters.net/modern/page/2/)
+17:25:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/page/1/
+17:25:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/page/1/ to https://blogosphere.cmsmasters.net/modern/
+17:25:21	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=613
+17:25:21	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=613 to https://blogosphere.cmsmasters.net/modern/project/movie/
+17:25:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=617
+17:25:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=617 to https://blogosphere.cmsmasters.net/modern/project/education/
+17:25:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=913
+17:25:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=913 to https://blogosphere.cmsmasters.net/modern/project/fashion/
+17:25:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=611
+17:25:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=611 to https://blogosphere.cmsmasters.net/modern/project/decor/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1155
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1155 to https://blogosphere.cmsmasters.net/modern/project/interior/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=9410
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=9410 to https://blogosphere.cmsmasters.net/modern/project/food/
+17:25:29	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/modern/wp-content/plugins/revslider/public/assets/css/openhand.cur
+17:25:29	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/modern/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=2938
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=2938 to https://blogosphere.cmsmasters.net/modern/2017/09/24/activities-entertainment-for-kids-adults/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13099
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13099 to https://blogosphere.cmsmasters.net/modern/2017/09/13/pastime-top-50-my-favorite-movies-of-all-time/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=13101
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=13101 to https://blogosphere.cmsmasters.net/modern/2017/09/18/what-is-the-meaning-of-white-tulips/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=10736
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=10736 to https://blogosphere.cmsmasters.net/modern/2017/09/22/4-tips-to-be-a-more-productive-student/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=87
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=87 to https://blogosphere.cmsmasters.net/modern/2017/09/20/10-most-bizarre-places-and-hotels-you-can-stay-at/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=8036
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=8036 to https://blogosphere.cmsmasters.net/modern/2017/09/10/drinking-through-energy-cocktails-to-get-you-up/
+17:25:29	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/grid-blog/page/1/
+17:25:29	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/grid-blog/page/1/ to https://blogosphere.cmsmasters.net/modern/grid-blog/
+17:25:30	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1665
+17:25:30	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1665 to https://blogosphere.cmsmasters.net/modern/product/camera/
+17:25:31	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=3840
+17:25:31	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=3840 to https://blogosphere.cmsmasters.net/modern/cart/
+17:25:32	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1667
+17:25:32	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1667 to https://blogosphere.cmsmasters.net/modern/product/indoor-flower/
+17:25:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1666
+17:25:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1666 to https://blogosphere.cmsmasters.net/modern/product/modern-glasses/
+17:25:34	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1668
+17:25:34	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1668 to https://blogosphere.cmsmasters.net/modern/product/spherical-vase/
+17:25:35	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1664
+17:25:35	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1664 to https://blogosphere.cmsmasters.net/modern/product/style-set/
+17:25:35	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=1663
+17:25:35	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=1663 to https://blogosphere.cmsmasters.net/modern/product/watch/
+17:25:36	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/author/cmsmasters/page/1/
+17:25:36	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/author/cmsmasters/page/1/ to https://blogosphere.cmsmasters.net/modern/author/cmsmasters/
+17:25:36	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=8414
+17:25:36	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=8414 to https://blogosphere.cmsmasters.net/modern/project/photography/
+17:25:36	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/modern/?p=606
+17:25:36	Warning: 	File has moved from https://blogosphere.cmsmasters.net/modern/?p=606 to https://blogosphere.cmsmasters.net/modern/project/travel/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 37 seconds : 636 links scanned, 589 files written (27859532 bytes overall) [17105810 bytes received at 50759 bytes/sec], 13950776 bytes transferred using HTTP compression in 310 files, ratio 20%, 11.7 requests per connection
+(4 errors, 87 warnings, 0 messages)
